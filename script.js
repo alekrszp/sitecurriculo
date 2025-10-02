@@ -1,4 +1,4 @@
-const texto = "Desenvolvimento WEB, sistema de cadastros de código do setor de engenharia.";
+const texto = "Desenvolvimento WEB, sistema de cadastros de materiais do setor de engenharia.";
 const descricao = document.getElementById("descricao");
 let index = 0;
 
